@@ -26,7 +26,7 @@ import {
   MessageCircle
 } from 'lucide-react'
 import { useAuthStore } from '@/lib/store'
-import { useWhatsApp } from '@/lib/whatsapp'
+import { useWhatsApp } from '@/hooks/use-whatsapp'
 
 interface Product {
   id: string

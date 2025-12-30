@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import { Link } from 'next/link'
+import Link from 'next/link'
 import { Eye, ShoppingBag, TrendingUp, Sparkles, Shield, Heart, Star, ArrowRight } from 'lucide-react'
 
 // Collections data with dummy images
